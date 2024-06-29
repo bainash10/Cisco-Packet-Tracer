@@ -20,7 +20,7 @@
 - **Class D**: IP Range 224.0.0.0 to 239.255.255.255, Used for multicast.
 - **Class E**: IP Range 240.0.0.0 to 255.255.255.255, Reserved for experimental use.
 
-  ### Network Devices and Their Functions
+## Network Devices and Their Functions
 
 #### Hub
 
@@ -63,7 +63,7 @@
 - **Mesh Topology**: Devices are interconnected, allowing multiple paths for data.
 - **Hybrid Topology**: Combination of two or more different types of topologies.
 
-  ## Command Line Interface (CLI) Commands
+## Command Line Interface (CLI) Commands
 
 - **Ping**: Used to check the connectivity between devices.
 - **ipconfig**: Displays network configuration details.
